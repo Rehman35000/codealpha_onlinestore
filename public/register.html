@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Register — ShopEasy</title>
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+
+  <!-- ====== shared navbar (built by js/layout.js) ====== -->
+  <div id="site-header"></div>
+
+  <!-- ====== registration form ====== -->
+  <main class="container auth-page" id="main" tabindex="-1">
+    <div class="auth-card">
+      <h1>Create an account</h1>
+      <p class="muted">Register to start shopping and placing orders.</p>
+
+      <div id="message"></div>
+
+      <form id="registerForm" novalidate>
+        <div class="form-group">
+          <label for="name">Full name</label>
+          <input type="text" id="name" name="name" autocomplete="name" required>
+        </div>
+        <div class="form-group">
+          <label for="email">Email</label>
+          <input type="email" id="email" name="email" autocomplete="email" required>
+        </div>
+        <div class="form-group">
+          <label for="password">Password</label>
+          <input type="password" id="password" name="password" autocomplete="new-password" required>
+          <small class="muted">At least 6 characters.</small>
+        </div>
+        <button type="submit" class="btn btn-primary btn-block" id="submitBtn">Create account</button>
+      </form>
+
+      <p class="muted center">Already have an account? <a href="/login.html">Log in</a></p>
+    </div>
+  </main>
+
+  <!-- ====== footer (built by js/layout.js) ====== -->
+  <div id="site-footer"></div>
+
+  <script src="/js/layout.js"></script>
+  <script src="/js/main.js"></script>
+  <script src="/js/auth.js"></script>
+</body>
+</html>

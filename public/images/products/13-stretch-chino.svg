@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" role="img" aria-label="Stretch chino in stone, front view">
+  <rect width="600" height="750" fill="#e9e6df"/>
+  <g>
+    <path fill="#9c988f" d="M194 192 L406 192 L398 654 L314 654 L300 336 L286 654 L202 654 Z"/>
+    <path fill="#8d8a82" d="M190 152 L410 152 L408 194 L192 194 Z"/>
+    <g fill="none" stroke="#ffffff" stroke-opacity=".3" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M300 198 L300 328"/>
+      <path d="M224 204 C238 236 256 250 274 256"/>
+      <path d="M376 204 C362 236 344 250 326 256"/>
+      <path d="M216 156 L216 192"/>
+      <path d="M384 156 L384 192"/>
+      <path d="M206 638 L286 638"/>
+      <path d="M314 638 L394 638"/>
+    </g>
+    <g fill="none" stroke="#5f5b55" stroke-opacity=".35" stroke-width="3" stroke-linecap="round">
+      <path d="M202 210 L210 650"/>
+      <path d="M398 210 L390 650"/>
+    </g>
+  </g>
+</svg>

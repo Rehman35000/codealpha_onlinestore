@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" role="img" aria-label="Everyday canvas tote in bone">
+  <rect width="600" height="750" fill="#ddd8cb"/>
+  <g>
+    <path fill="none" stroke="#eae5d8" stroke-width="18" stroke-linecap="round" d="M226 320 C226 214 374 214 374 320"/>
+    <path fill="#eae5d8" d="M170 300 L430 300 L430 566 C430 596 404 618 374 618 L226 618 C196 618 170 596 170 566 Z"/>
+    <path fill="#ddd7c8" d="M170 300 L430 300 L430 330 L170 330 Z"/>
+    <g fill="none" stroke="#8f8878" stroke-opacity=".55" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M170 330 L430 330"/>
+      <path d="M214 402 L386 402 L386 452 L214 452 Z"/>
+      <path d="M226 300 L226 330"/>
+      <path d="M374 300 L374 330"/>
+    </g>
+  </g>
+</svg>

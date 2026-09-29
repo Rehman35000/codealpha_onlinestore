@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" role="img" aria-label="Boxy pocket tee in bone, front view">
+  <rect width="600" height="750" fill="#dcd6c8"/>
+  <g>
+    <path fill="#ece7db" d="M236 176 L156 206 L118 306 L182 336 L200 292 L192 592 Q300 608 408 592 L400 292 L418 336 L482 306 L444 206 L364 176 C346 210 254 210 236 176 Z"/>
+    <path fill="#ddd7c8" d="M236 176 C254 210 346 210 364 176 C346 196 254 196 236 176 Z"/>
+    <path fill="#e2dccd" d="M250 296 L322 296 L322 372 L250 372 Z"/>
+    <g fill="none" stroke="#8f8878" stroke-opacity=".55" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M250 296 L322 296 L322 372 L250 372 Z"/>
+      <path d="M194 578 Q300 594 406 578"/>
+      <path d="M130 298 L188 326"/>
+      <path d="M470 298 L412 326"/>
+    </g>
+  </g>
+</svg>

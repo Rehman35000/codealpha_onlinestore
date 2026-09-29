@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" role="img" aria-label="Boxy hoodie in bone, front view">
+  <rect width="600" height="750" fill="#d9d3c6"/>
+  <g>
+    <path fill="#c3bcab" d="M238 182 C230 108 296 84 366 104 C386 112 392 150 372 182 Z"/>
+    <path fill="#dcd6c6" d="M300 132 C268 132 252 150 250 178 L350 178 C348 150 332 132 300 132 Z"/>
+    <path fill="#ebe6d9" d="M230 182 L156 208 L116 486 L192 512 L212 300 L202 616 Q300 634 398 616 L388 300 L408 512 L484 486 L444 208 L370 182 C352 216 248 216 230 182 Z"/>
+    <path fill="#e0dacb" d="M240 468 Q300 460 360 468 L352 556 Q300 566 248 556 Z"/>
+    <g fill="none" stroke="#8f8878" stroke-opacity=".6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M240 468 Q300 460 360 468 L352 556 Q300 566 248 556 Z"/>
+      <path d="M206 600 Q300 618 394 600"/>
+      <path d="M122 472 L190 498"/>
+      <path d="M478 472 L410 498"/>
+    </g>
+    <g fill="none" stroke="#8f8878" stroke-opacity=".7" stroke-width="4" stroke-linecap="round">
+      <path d="M282 196 L278 268"/>
+      <path d="M318 196 L322 268"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" role="img" aria-label="Zip through sweatshirt in stone, front view">
+  <rect width="600" height="750" fill="#eae7e0"/>
+  <g>
+    <path fill="#9c988f" d="M232 178 L158 204 L118 480 L194 510 L212 302 L204 604 Q300 620 396 604 L388 302 L406 510 L482 480 L442 204 L368 178 C350 210 250 210 232 178 Z"/>
+    <path fill="#8b877e" d="M232 178 C250 210 350 210 368 178 C350 196 250 196 232 178 Z"/>
+    <path fill="#8b877e" d="M206 588 Q300 604 394 588 L396 606 Q300 622 204 606 Z"/>
+    <g fill="none" stroke="#ffffff" stroke-opacity=".35" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M300 186 L300 262"/>
+      <path d="M124 466 L192 496"/>
+      <path d="M476 466 L408 496"/>
+    </g>
+    <g fill="none" stroke="#5f5b54" stroke-opacity=".5" stroke-width="3" stroke-linecap="round">
+      <path d="M212 310 L204 586"/>
+      <path d="M388 310 L396 586"/>
+    </g>
+    <circle cx="300" cy="270" r="6" fill="#5f5b54"/>
+  </g>
+</svg>

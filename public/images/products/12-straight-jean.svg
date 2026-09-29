@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" role="img" aria-label="Straight selvedge jean in indigo, front view">
+  <rect width="600" height="750" fill="#e8e6e1"/>
+  <g>
+    <path fill="#3a4a6b" d="M194 190 L406 190 L398 660 L314 660 L300 334 L286 660 L202 660 Z"/>
+    <path fill="#31405e" d="M190 150 L410 150 L408 192 L192 192 Z"/>
+    <g fill="none" stroke="#e8c99a" stroke-opacity=".7" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M300 196 L300 326"/>
+      <path d="M222 202 C236 236 254 252 272 258"/>
+      <path d="M378 202 C364 236 346 252 328 258"/>
+      <path d="M214 154 L214 190"/>
+      <path d="M386 154 L386 190"/>
+      <path d="M206 644 L286 644"/>
+      <path d="M314 644 L394 644"/>
+    </g>
+    <g fill="none" stroke="#1f2b42" stroke-opacity=".45" stroke-width="3" stroke-linecap="round">
+      <path d="M202 208 L210 656"/>
+      <path d="M398 208 L390 656"/>
+    </g>
+  </g>
+</svg>

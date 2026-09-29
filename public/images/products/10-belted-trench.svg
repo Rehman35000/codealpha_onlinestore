@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" role="img" aria-label="Belted trench coat in stone, front view">
+  <rect width="600" height="750" fill="#eae7e1"/>
+  <g>
+    <path fill="#a29d94" d="M230 180 L154 206 L116 462 L192 494 L206 300 L196 700 Q300 716 404 700 L394 300 L408 494 L484 462 L446 206 L370 180 C350 214 250 214 230 180 Z"/>
+    <path fill="#8e8a82" d="M230 180 L296 216 L244 268 L206 202 Z"/>
+    <path fill="#8e8a82" d="M370 180 L304 216 L356 268 L394 202 Z"/>
+    <path fill="#8b8780" d="M204 424 Q300 436 396 424 L398 458 Q300 470 202 458 Z"/>
+    <path fill="#6f6b64" d="M286 424 L330 424 L330 458 L286 458 Z"/>
+    <g fill="none" stroke="#5f5b55" stroke-opacity=".5" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M124 448 L190 480"/>
+      <path d="M476 448 L410 480"/>
+      <path d="M300 244 L300 700"/>
+      <path d="M230 214 L186 226"/>
+      <path d="M370 214 L414 226"/>
+    </g>
+    <g fill="#6f6b64">
+      <circle cx="336" cy="300" r="5"/>
+      <circle cx="336" cy="356" r="5"/>
+      <circle cx="264" cy="300" r="5"/>
+      <circle cx="264" cy="356" r="5"/>
+    </g>
+  </g>
+</svg>

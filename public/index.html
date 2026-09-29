@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ShopEasy — Home</title>
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+
+  <!-- ====== shared navbar (built by js/layout.js) ====== -->
+  <div id="site-header"></div>
+
+  <!-- ====== hero ====== -->
+  <header class="hero">
+    <div class="container">
+      <h1>Welcome to ShopEasy</h1>
+      <p>Simple, clean and fast online shopping. Browse the catalog and find what you need.</p>
+      <a href="#products" class="btn btn-light">Shop now</a>
+    </div>
+  </header>
+
+  <!-- ====== product grid (loaded from the API) ====== -->
+  <main class="container" id="main" tabindex="-1">
+    <h2 class="section-title" id="products">All products</h2>
+    <div class="shop-bar" id="shopBar" hidden></div>
+    <div id="pageMessage"></div>
+    <div id="productsGrid" class="product-grid"></div>
+  </main>
+
+  <!-- ====== footer (built by js/layout.js) ====== -->
+  <div id="site-footer"></div>
+
+  <script src="/js/layout.js"></script>
+  <script src="/js/main.js"></script>
+</body>
+</html>

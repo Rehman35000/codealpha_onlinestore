@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" role="img" aria-label="Utility chore coat in espresso, front view">
+  <rect width="600" height="750" fill="#e9e4db"/>
+  <g>
+    <path fill="#3b2a21" d="M232 182 L150 210 L110 468 L186 500 L204 308 L196 620 Q300 638 404 620 L396 308 L414 500 L490 468 L450 210 L368 182 C350 216 250 216 232 182 Z"/>
+    <path fill="#4a352a" d="M232 182 L300 216 L300 232 L222 200 Z"/>
+    <path fill="#4a352a" d="M368 182 L300 216 L300 232 L378 200 Z"/>
+    <path fill="#2c1e17" d="M296 206 L304 206 L304 628 L296 628 Z"/>
+    <path fill="#2c1e17" d="M232 296 L300 296 L300 360 L232 360 Z"/>
+    <path fill="#2c1e17" d="M300 296 L368 296 L368 360 L300 360 Z"/>
+    <path fill="#2c1e17" d="M226 470 L300 470 L300 552 L226 552 Z"/>
+    <path fill="#2c1e17" d="M300 470 L374 470 L374 552 L300 552 Z"/>
+    <g fill="none" stroke="#d8c7a8" stroke-opacity=".55" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M232 296 L300 296 L300 360 L232 360 Z"/>
+      <path d="M300 296 L368 296 L368 360 L300 360 Z"/>
+      <path d="M226 470 L300 470 L300 552 L226 552 Z"/>
+      <path d="M300 470 L374 470 L374 552 L300 552 Z"/>
+      <path d="M232 310 L300 310"/>
+      <path d="M300 310 L368 310"/>
+      <path d="M226 484 L300 484"/>
+      <path d="M300 484 L374 484"/>
+      <path d="M200 606 Q300 624 400 606"/>
+      <path d="M116 454 L184 486"/>
+      <path d="M484 454 L416 486"/>
+    </g>
+  </g>
+</svg>

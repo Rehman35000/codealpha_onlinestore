@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" role="img" aria-label="Court sneaker in bone, side profile">
+  <rect width="600" height="750" fill="#e0dbd0"/>
+  <g>
+    <path fill="#ece7db" d="M150 560 L166 424 C174 378 214 348 264 348 C304 348 336 366 358 398 L438 466 C458 480 468 506 468 540 L468 560 Z"/>
+    <path fill="#c8a97e" d="M118 556 L470 556 C494 556 498 596 470 602 L152 602 C124 600 112 574 118 556 Z"/>
+    <g fill="none" stroke="#8f8878" stroke-opacity=".7" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M232 372 L268 402"/>
+      <path d="M254 356 L292 388"/>
+      <path d="M276 344 L314 376"/>
+      <path d="M166 424 C210 448 250 462 292 462 C356 462 420 486 468 528"/>
+      <path d="M300 462 L300 556"/>
+      <path d="M126 578 L470 578"/>
+    </g>
+    <path fill="#dcd5c5" d="M166 424 C180 388 214 362 258 356 L268 402 L232 372 Z"/>
+  </g>
+</svg>

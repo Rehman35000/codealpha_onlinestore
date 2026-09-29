@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" role="img" aria-label="Heavyweight cotton tee in black, front view">
+  <rect width="600" height="750" fill="#e9e5dd"/>
+  <g>
+    <path fill="#1f1e1c" d="M232 168 L150 200 L112 300 L176 330 L196 286 L188 610 Q300 626 412 610 L404 286 L424 330 L488 300 L450 200 L368 168 C348 204 252 204 232 168 Z"/>
+    <path fill="#33312d" d="M232 168 C252 204 348 204 368 168 C348 190 252 190 232 168 Z"/>
+    <g fill="none" stroke="#ffffff" stroke-opacity=".16" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M190 596 Q300 612 410 596"/>
+      <path d="M124 292 L182 320"/>
+      <path d="M476 292 L418 320"/>
+      <path d="M240 176 L206 192"/>
+      <path d="M360 176 L394 192"/>
+    </g>
+  </g>
+</svg>

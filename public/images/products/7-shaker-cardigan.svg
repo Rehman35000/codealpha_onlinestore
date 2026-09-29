@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" role="img" aria-label="Shaker knit cardigan in bone, front view">
+  <rect width="600" height="750" fill="#dcd6c9"/>
+  <g>
+    <path fill="#eae5d8" d="M234 174 L160 198 L120 476 L196 506 L212 302 L206 600 Q300 616 394 600 L388 302 L404 506 L480 476 L440 198 L366 174 C346 212 254 212 234 174 Z"/>
+    <path fill="#ded8c9" d="M232 172 C254 212 346 212 368 172 C346 194 254 194 232 172 Z"/>
+    <path fill="#d5cfbe" d="M296 176 L304 176 L304 604 L296 604 Z"/>
+    <path fill="#d5cfbe" d="M206 582 Q300 598 394 582 L396 604 Q300 620 204 604 Z"/>
+    <g fill="none" stroke="#8f8878" stroke-opacity=".5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M126 462 L194 492"/>
+      <path d="M474 462 L406 492"/>
+    </g>
+    <g fill="none" stroke="#8f8878" stroke-opacity=".22" stroke-width="2">
+      <path d="M244 208 L232 576"/>
+      <path d="M268 214 L260 584"/>
+      <path d="M332 214 L340 584"/>
+      <path d="M356 208 L368 576"/>
+    </g>
+    <g fill="#6f6a5f">
+      <circle cx="290" cy="252" r="6"/>
+      <circle cx="290" cy="336" r="6"/>
+      <circle cx="290" cy="420" r="6"/>
+      <circle cx="290" cy="504" r="6"/>
+    </g>
+  </g>
+</svg>

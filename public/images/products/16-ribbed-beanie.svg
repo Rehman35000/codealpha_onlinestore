@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" role="img" aria-label="Ribbed beanie in black">
+  <rect width="600" height="750" fill="#eae5dc"/>
+  <g>
+    <path fill="#1f1e1c" d="M170 486 C170 244 430 244 430 486 Z"/>
+    <path fill="#2b2a26" d="M162 476 Q300 444 438 476 L444 578 Q300 546 156 578 Z"/>
+    <g fill="none" stroke="#ffffff" stroke-opacity=".13" stroke-width="4" stroke-linecap="round">
+      <path d="M214 452 C210 380 210 320 216 288"/>
+      <path d="M258 442 C254 360 254 300 258 268"/>
+      <path d="M300 440 L300 260"/>
+      <path d="M342 442 C346 360 346 300 342 268"/>
+      <path d="M386 452 C390 380 390 320 384 288"/>
+      <path d="M180 500 Q300 474 420 500"/>
+      <path d="M178 538 Q300 512 422 538"/>
+    </g>
+  </g>
+</svg>

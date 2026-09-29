@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" role="img" aria-label="Lambswool crewneck sweater in oat, front view">
+  <rect width="600" height="750" fill="#e6dfd2"/>
+  <g>
+    <path fill="#d9cbb0" d="M234 174 L160 198 L120 476 L196 506 L212 302 L206 596 Q300 612 394 596 L388 302 L404 506 L480 476 L440 198 L366 174 C346 214 254 214 234 174 Z"/>
+    <path fill="#c9b997" d="M234 174 C254 214 346 214 366 174 C346 198 254 198 234 174 Z"/>
+    <path fill="#c9b997" d="M206 578 Q300 594 394 578 L396 600 Q300 616 204 600 Z"/>
+    <g fill="none" stroke="#8a7a5c" stroke-opacity=".45" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M126 462 L194 492"/>
+      <path d="M474 462 L406 492"/>
+    </g>
+    <g fill="none" stroke="#8a7a5c" stroke-opacity=".28" stroke-width="2">
+      <path d="M240 200 L226 570"/>
+      <path d="M260 206 L250 578"/>
+      <path d="M300 210 L300 582"/>
+      <path d="M340 206 L350 578"/>
+      <path d="M360 200 L374 570"/>
+      <path d="M212 584 L212 600"/>
+      <path d="M232 588 L232 604"/>
+      <path d="M252 591 L252 607"/>
+      <path d="M272 593 L272 609"/>
+      <path d="M328 593 L328 609"/>
+      <path d="M348 591 L348 607"/>
+      <path d="M368 588 L368 604"/>
+      <path d="M388 584 L388 600"/>
+    </g>
+  </g>
+</svg>

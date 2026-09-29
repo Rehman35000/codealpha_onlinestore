@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" role="img" aria-label="Oversized denim jacket in indigo, front view">
+  <rect width="600" height="750" fill="#e8e6e1"/>
+  <g>
+    <path fill="#3a4a6b" d="M230 180 L152 208 L112 470 L188 502 L206 306 L198 578 Q300 596 402 578 L394 306 L412 502 L488 470 L448 208 L370 180 C352 214 248 214 230 180 Z"/>
+    <path fill="#2f3d59" d="M230 180 L268 210 L238 250 L204 200 Z"/>
+    <path fill="#2f3d59" d="M370 180 L332 210 L362 250 L396 200 Z"/>
+    <path fill="#33435f" d="M296 200 L304 200 L304 584 L296 584 Z"/>
+    <path fill="#2f3d59" d="M228 268 L292 268 L292 330 L228 330 Z"/>
+    <path fill="#2f3d59" d="M308 268 L372 268 L372 330 L308 330 Z"/>
+    <g fill="none" stroke="#e8c99a" stroke-opacity=".75" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M228 268 L292 268 L292 330 L228 330 Z"/>
+      <path d="M308 268 L372 268 L372 330 L308 330 Z"/>
+      <path d="M228 282 L292 282"/>
+      <path d="M308 282 L372 282"/>
+      <path d="M202 564 Q300 582 398 564"/>
+      <path d="M118 456 L186 488"/>
+      <path d="M482 456 L414 488"/>
+    </g>
+    <g fill="#c9a86a">
+      <circle cx="290" cy="240" r="5"/>
+      <circle cx="310" cy="240" r="5"/>
+    </g>
+  </g>
+</svg>

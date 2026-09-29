@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" role="img" aria-label="Wool blend cap in stone, side view">
+  <rect width="600" height="750" fill="#e9e6df"/>
+  <g>
+    <path fill="#9c988f" d="M152 434 C146 306 236 244 330 254 C392 260 428 306 430 372 C432 412 414 440 386 448 L176 460 Z"/>
+    <path fill="#86827a" d="M152 436 C118 480 156 534 268 534 C362 534 414 508 430 472 C372 470 216 456 152 436 Z"/>
+    <g fill="none" stroke="#5f5b55" stroke-opacity=".45" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M196 448 C190 380 200 320 240 280"/>
+      <path d="M286 454 C280 386 286 320 306 268"/>
+      <path d="M376 452 C378 392 370 330 348 286"/>
+      <path d="M152 436 C118 480 156 534 268 534 C362 534 414 508 430 472"/>
+    </g>
+    <circle cx="300" cy="262" r="9" fill="#86827a"/>
+  </g>
+</svg>

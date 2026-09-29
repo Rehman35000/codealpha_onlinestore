@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" role="img" aria-label="Ribbed long sleeve top in espresso, front view">
+  <rect width="600" height="750" fill="#eae5dc"/>
+  <g>
+    <path fill="#3b2a21" d="M236 172 L162 196 L120 470 L196 500 L214 300 L206 606 Q300 620 394 606 L386 300 L404 500 L480 470 L438 196 L364 172 C346 206 254 206 236 172 Z"/>
+    <path fill="#4a362b" d="M236 172 C254 206 346 206 364 172 C346 192 254 192 236 172 Z"/>
+    <g fill="none" stroke="#ffffff" stroke-opacity=".14" stroke-width="3" stroke-linecap="round">
+      <path d="M208 592 Q300 606 392 592"/>
+      <path d="M126 456 L194 484"/>
+      <path d="M474 456 L406 484"/>
+    </g>
+    <g fill="none" stroke="#ffffff" stroke-opacity=".07" stroke-width="2">
+      <path d="M256 240 L256 590"/>
+      <path d="M276 244 L276 594"/>
+      <path d="M300 246 L300 596"/>
+      <path d="M324 244 L324 594"/>
+      <path d="M344 240 L344 590"/>
+    </g>
+  </g>
+</svg>
